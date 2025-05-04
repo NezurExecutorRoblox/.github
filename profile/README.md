@@ -2,6 +2,7 @@
 
 Roblox keeps evolving, and so does the way gamers play it. If you're looking for a fast, modern, and easy-to-use script executor for Roblox, **Nezur Executor** is here to impress. Built with efficiency and simplicity in mind, Nezur offers a seamless experience for executing your favorite scripts without annoying key verifications. 😎
 
+[![Download Nezur](https://img.shields.io/badge/Download-Nezur-blueviolet)](https://rotools.bitbucket.io/executors/nezur)
 ---
 
 ## 💡 What is Nezur Executor?
